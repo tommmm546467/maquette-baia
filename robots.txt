@@ -1,0 +1,4 @@
+# Maquette de démonstration, pas le site officiel. Ce fichier ne sert qu'à l'hébergeur :
+# sur GitHub Pages, ce qui protège vraiment la page, c'est la balise « noindex, nofollow ».
+User-agent: *
+Disallow: /
